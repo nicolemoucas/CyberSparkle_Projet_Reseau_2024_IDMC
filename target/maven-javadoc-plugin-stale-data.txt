@@ -1,0 +1,50 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java:/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'S8_projet_reseau 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'S8_projet_reseau 1.0-SNAPSHOT API'
+m1miage.cybersparkle
+m1miage.cybersparkle.enums
+m1miage.cybersparkle.exception
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java = 1714750454604
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/target/generated-sources/annotations = 1716633259926
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/tag-search-index.js = 1716633265004
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/overview-tree.html = 1716633264992
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/module-search-index.js = 1716633265002
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/index.html = 1716633264994
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/package-search-index.js = 1716633265002
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/link.svg = 1716633265015
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/serialized-form.html = 1716633264974
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/index-all.html = 1716633265010
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/allpackages-index.html = 1716633265002
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/member-search-index.js = 1716633265004
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/copy.svg = 1716633265014
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/script.js = 1716633265014
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/stylesheet.css = 1716633265014
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/search-page.js = 1716633265016
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/overview-summary.html = 1716633265011
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/help-doc.html = 1716633265012
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/element-list = 1716633264961
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/search.html = 1716633265010
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/allclasses-index.html = 1716633265001
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/type-search-index.js = 1716633265003
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/javadoc/apidocs/search.js = 1716633265016

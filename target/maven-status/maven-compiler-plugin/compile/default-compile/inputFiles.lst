@@ -1,0 +1,16 @@
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/ServerConnected.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/enums/ProtocoleHTTP.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/SolutionDto.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/package-info.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/enums/ProtocoleWorker.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/enums/ProtocoleServeur.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/exception/NoAccessWebServiceException.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/ServerConnectionThread.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/exception/package-info.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/Client.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/Serveur.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/LauncherServeur.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/enums/package-info.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/Utils.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/WorkerSolvingThread.java
+/Users/aurry/Documents/M1MIAGE/S2/Réseau/S8_reseau/src/main/java/m1miage/cybersparkle/exception/InstructionUnknown.java

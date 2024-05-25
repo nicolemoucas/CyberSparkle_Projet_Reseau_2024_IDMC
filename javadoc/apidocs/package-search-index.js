@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"m1miage.cybersparkle"},{"l":"m1miage.cybersparkle.enums"},{"l":"m1miage.cybersparkle.exception"}];updateSearchResults();
